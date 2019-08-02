@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\C12 陈龙改\LibrarySystem\Comm\bin\Debug\Library.Comm.dll
+C:\Users\Administrator\Desktop\C12 陈龙改\LibrarySystem\Comm\bin\Debug\Library.Comm.pdb
+C:\Users\Administrator\Desktop\C12 陈龙改\LibrarySystem\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C12 陈龙改\LibrarySystem\Comm\obj\Debug\Library.Comm.dll
+C:\Users\Administrator\Desktop\C12 陈龙改\LibrarySystem\Comm\obj\Debug\Library.Comm.pdb
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\bin\Debug\Library.Comm.dll
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\bin\Debug\Library.Comm.pdb
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\obj\Debug\Library.Comm.dll
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\obj\Debug\Library.Comm.pdb
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\bin\Debug\Library.Comm.dll
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\bin\Debug\Library.Comm.pdb
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\obj\Debug\Library.Comm.dll
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\Comm\obj\Debug\Library.Comm.pdb
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\Comm\bin\Debug\Library.Comm.dll
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\Comm\bin\Debug\Library.Comm.pdb
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\Comm\obj\Debug\Library.Comm.dll
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\Comm\obj\Debug\Library.Comm.pdb
+D:\C12 陈龙\LibrarySystem\Comm\bin\Debug\Library.Comm.dll
+D:\C12 陈龙\LibrarySystem\Comm\bin\Debug\Library.Comm.pdb
+D:\C12 陈龙\LibrarySystem\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+D:\C12 陈龙\LibrarySystem\Comm\obj\Debug\Library.Comm.dll
+D:\C12 陈龙\LibrarySystem\Comm\obj\Debug\Library.Comm.pdb
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\Comm\bin\Debug\Library.Comm.dll
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\Comm\bin\Debug\Library.Comm.pdb
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\Comm\obj\Debug\Library.Comm.dll
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\Comm\obj\Debug\Library.Comm.pdb
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,40 @@
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.dll
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.pdb
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.dll
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.pdb
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.dll
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.dll
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.pdb
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.pdb
+C:\Users\Administrator\Desktop\C12陈龙\C#\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.dll
+C:\Users\Administrator\Desktop\C12陈龙\C#\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.pdb
+C:\Users\Administrator\Desktop\C12陈龙\C#\LibrarySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C12陈龙\C#\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.dll
+C:\Users\Administrator\Desktop\C12陈龙\C#\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.pdb
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\bin\Debug\Library.Comm.dll
+F:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\bin\Debug\Library.Comm.pdb
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\bin\Debug\Library.Comm.dll
+G:\C# & SQL\4.27 项目\项目\LibrarySystem\DataAccess\bin\Debug\Library.Comm.pdb
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.dll
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.pdb
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\DataAccess\bin\Debug\Library.Comm.dll
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\DataAccess\bin\Debug\Library.Comm.pdb
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.dll
+C:\Users\Administrator\Desktop\C12 陈龙\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.pdb
+D:\C12 陈龙\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.dll
+D:\C12 陈龙\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.pdb
+D:\C12 陈龙\LibrarySystem\DataAccess\bin\Debug\Library.Comm.dll
+D:\C12 陈龙\LibrarySystem\DataAccess\bin\Debug\Library.Comm.pdb
+D:\C12 陈龙\LibrarySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\C12 陈龙\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.dll
+D:\C12 陈龙\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.pdb
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.dll
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\DataAccess\bin\Debug\Library.DataAccess.pdb
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\DataAccess\bin\Debug\Library.Comm.dll
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\DataAccess\bin\Debug\Library.Comm.pdb
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.dll
+F:\C# & SQL\2019上半学期\项目 完成版\LibrarySystem\DataAccess\obj\Debug\Library.DataAccess.pdb
